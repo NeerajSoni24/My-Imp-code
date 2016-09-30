@@ -1,0 +1,59 @@
+1                                                            ** SAP-FEJLLISTE VEDR. BATCH VALIDERINGER **                         09:12 Friday, September 30, 2016   1
+                                                               Sorteret pr. selskab, bilagsart og valuta
+
+ ---------------------------------------------------- Selskab=2022 Bilags art=PS Valuta=DKK Forretningsomr.=2310 -----------------------------------------------------
+
+   Bogf.     R2       R3                        Valuta     R2        R3        Mod        Police
+    dato    konto   konto      Stednr    Beløb   beløb  modkonto  modkonto   stednr.        nr      Branche                      Fejlbeskrivelse
+
+  20160928         31171000  2846222310   62.8   62.8             41171022  2846002310  6467122027    ULC    KOSTSTED DEBET FINDES IKKE (2022 / 2016 / 284622 / 2310)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                               psapdifa
+
